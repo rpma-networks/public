@@ -3,10 +3,10 @@
 {
   "keys": [
     {
-    "kty": "EC",
-    "crv": "P-256",
-    "x": "ZnvjpW1KbLX7wvImGVd7MjuVGYoG3Xm-yrawflUxIF8",
-    "y": "58Vp8HHdsxTOWynZIWyqAOaLVlFhdiGw1xG_Ux0HdB4",
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "qW9ONPEeYdXGjZGJoKgvGfxp_ldB3ogtrNvAYIicCQw",
+      "y": "r5LaBVwYN9WOqvADvoPooXLwsenWif78vbRxC-Mm__o",
     }
   ]
 }
