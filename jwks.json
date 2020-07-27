@@ -1,7 +1,5 @@
 
-
-{
-  "keys": [
+[
     {
       "kty": "EC",
       "crv": "P-256",
@@ -9,4 +7,3 @@
       "y": "rfqxrVe0xhOUtxAcDoIgTz5hum1e8qx8yez9Iu2d7a8",
     }
   ]
-}
