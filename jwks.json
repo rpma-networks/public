@@ -1,11 +1,11 @@
-
-[
+{ "keys": [
     {
       "kty": "EC",
       "crv": "P-256",
       "x": "WJPgOTF8x7CNHeQMrsEu3BX51-o4bqnmzXn3So6KjDg",
       "y": "rfqxrVe0xhOUtxAcDoIgTz5hum1e8qx8yez9Iu2d7a8",
-       "use": "sig",
-       "kid": "1"
+      "use": "sig",
+      "kid": "1"
     }
   ]
+}
